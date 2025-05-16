@@ -1,0 +1,1 @@
+[Artikel](https://fanchann.medium.com/singleton-vs-non-singleton-ecaeda6095e1)
